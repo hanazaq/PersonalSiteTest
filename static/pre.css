@@ -1,0 +1,53 @@
+div.hana{
+	 width: 286px;
+	height: 286px;
+	background-color: pink;
+/*	border:2px solid black;*/
+	float:left;
+	/*margin-left: 20px;*/
+	overflow: hidden;
+
+}
+
+.hana:hover img{
+	width: 450px !important;
+	-webkit-filter: brightness(140%); /* Safari */
+	-moz-filter: brightness(140%); /* Firefox */
+filter: brightness(140%);
+	  -webkit-transition: all 1s ease-out; /* Safari */
+	   -moz-transition: all 1s ease-out; /* Firefox */
+	   transition: all 1s ease-out;
+
+}
+
+.hamtoor{
+	width: 1160px;
+	height: 286px;
+	/*clear:both;*/
+	margin: auto;
+
+}
+div.myName{
+ width: 1160px; 
+	margin: auto;
+	height: 200px;
+	background-color: pink;
+	margin-top:20px;
+	padding-left: 30px;
+	padding-top: 30px;
+}
+.name{
+	color:purple;
+	text-align: center;
+}
+#hello{
+	margin-left:560px;
+}
+.nesma{
+	text-align: center;
+	color:purple;
+	font-family: georgia;
+}
+.nesma:hover{
+	color:brown;
+}
